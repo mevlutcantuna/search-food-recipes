@@ -1,0 +1,40 @@
+.recipes{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    width: 45rem;
+    border-radius: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card__body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card__left{
+    width: 20rem;
+    display: inline-block;
+}
+
+.card__right{
+    width: 20rem;
+    display: inline-block;
+}
+.card__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+.card__image{
+    border-radius: 2rem;
+    width: 18rem;
+    height: 18rem;
+}
+.card__calories{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
