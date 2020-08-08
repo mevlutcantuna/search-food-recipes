@@ -14,10 +14,6 @@ git clone https://github.com/can5252/Recipes
 ```
 
 ```
-cd last-fm
-```
-
-```
 npm install
 ```
 
