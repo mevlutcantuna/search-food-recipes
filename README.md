@@ -10,7 +10,7 @@
 To setup the project, run the following on your terminal in the order: 
 
 ```
-git clone https://github.com/can5252/Recipes
+git clone https://github.com/mevlutcantuna/Recipes
 ```
 
 ```
