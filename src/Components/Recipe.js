@@ -2,7 +2,6 @@ import React from "react";
 import "../Style/Recipe.css";
 
 export default function Recipe(props) {
-  const { recipe } = props;
   return (
     <div className={"recipes"}>
       <h4 className={"card__title"}>{props.title}</h4>
